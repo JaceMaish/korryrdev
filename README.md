@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aldo%20Kipyegon%20Korir&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Mobile%20Developer%20%C2%B7%20Kenya&descSize=18&descAlignY=75" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jace%20Maish%20&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Mobile%20Developer%20%C2%B7%20Kenya&descSize=18&descAlignY=75" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=F472B6&center=true&vCenter=true&width=580&lines=Android+%26+Kotlin+Developer;Jetpack+Compose+Craftsperson;Kotlin+Multiplatform+Explorer;Flutter+%2F+Dart+Developer;Clean+Architecture+Practitioner;M-Pesa+Integration+Specialist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=F472B6&center=true&vCenter=true&width=580&lines=Android+%26+Kotlin+Developer;Jetpack+Compose+Craftsperson;Kotlin+Multiplatform+Explorer;+%2F+Dart+Developer;Clean+Architecture+Practitioner;M-Pesa+Integration+Specialist" alt="Typing SVG" />
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ```kotlin
 object Developer {
-    val name     = "Aldo Kipyegon Korir"
+    val name     = "Jace Maish"
     val role     = "Mobile Developer"
     val location = "Kenya"
 
@@ -39,22 +39,6 @@ object Developer {
 
 ---
 
-## Featured Projects
-
-<div align="center">
-
-| Project | What it does | Stack |
-|---------|-------------|-------|
-| [**AgriConnect**](https://github.com/korryrdev/AgriConnect) | Connects farmers, buyers & experts via real-time chat, listings & delivery coordination | Kotlin · Compose · MVVM · Firebase |
-| [**TubeFetch-Kotlin**](https://github.com/korryrdev/tubeFetch-Kotlin) | Modern YouTube video & audio downloader with background downloads | Kotlin · Compose · WorkManager · Room |
-| [**SmartPace**](https://github.com/korryrdev/SmartPace) | Student planner with study schedules, reminders & built-in chat | Flutter · Firebase · Dart |
-| [**mpesa-daraja-Kotlin**](https://github.com/korryrdev/mpesa_daraja_integration-Kotlin) | Clean M-Pesa STK Push integration for Android apps | Kotlin · Retrofit · Coroutines |
-| [**TransCore-Kotlin**](https://github.com/korryrdev/TransCore-Kotlin) | Translation app supporting 100+ languages | Kotlin · Compose · Hilt · Retrofit |
-| [**wavyExpressive-Kotlin**](https://github.com/korryrdev/wavyExpressive-Koltin) | Material3 Expressive APIs demo — wavy progress & dynamic theming | Kotlin · Compose · Material3 |
-| [**mustid-kotlin**](https://github.com/korryrdev/mustid-kotlin) | Student identity management via QR code scanning | Kotlin · Compose · Firebase |
-| [**Voyager-Navigation-CMP**](https://github.com/korryrdev/Voyager-Navigation-CMP) | KMP demo for Android & iOS using Voyager navigation | Kotlin Multiplatform · CMP |
-
-</div>
 
 ---
 
@@ -75,7 +59,7 @@ actual fun getPlatformName() = "iOS"      // iOS
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 
-Exploring shared business logic, navigation & UI across Android and iOS. See [**Voyager-Navigation-CMP**](https://github.com/korryrdev/Voyager-Navigation-CMP) for a tab-based stack navigation demo on both platforms.
+
 
 </div>
 
@@ -136,30 +120,6 @@ Exploring shared business logic, navigation & UI across Android and iOS. See [**
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://raw.githubusercontent.com/korryrdev/korryrdev/main/github-stats.svg" alt="GitHub Stats" />
-<img height="180" src="https://raw.githubusercontent.com/korryrdev/korryrdev/main/streak.svg" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img height="160" src="https://raw.githubusercontent.com/korryrdev/korryrdev/main/top-langs.svg" alt="Top Languages" />
-
-<br/><br/>
-
-<img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=korryrdev&theme=react-dark&hide_border=true&bg_color=0d1117&color=F472B6&line=818CF8&point=c084fc&area=true&border_radius=10" alt="Contribution Graph" />
-
-### Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/korryrdev/korryrdev/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/korryrdev/korryrdev/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/korryrdev/korryrdev/output/github-snake.svg" width="100%" />
-</picture>
-
-</div>
 
 ---
 
@@ -183,11 +143,10 @@ Whether it's a project, a collaboration, or just a chat about tech — I'd love 
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aldo-korir-kipyegon)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kipyegonaldo@gmail.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@AldoKipyegon)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254719227769)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@aldokipyegon)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/JasonMaina)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jasonmaina714@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254116130836)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@JasonMaina-j8g)
 
 <br/>
 
