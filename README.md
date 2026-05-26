@@ -31,7 +31,7 @@ object Developer {
 
     val currentFocus = "Kotlin Multiplatform & Material3 Expressive"
 
-    fun contact() = "kipyegonaldo@gmail.com"
+    fun contact() = "jasonmaina714@gmail.com"
 }
 ```
 
